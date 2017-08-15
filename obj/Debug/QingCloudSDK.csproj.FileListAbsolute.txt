@@ -1,0 +1,9 @@
+D:\github\qingcloud-sdk-net\bin\Debug\QingStorIaasSDK.exe.config
+D:\github\qingcloud-sdk-net\bin\Debug\QingStorIaasSDK.exe
+D:\github\qingcloud-sdk-net\bin\Debug\QingStorIaasSDK.pdb
+D:\github\qingcloud-sdk-net\bin\Debug\log4net.dll
+D:\github\qingcloud-sdk-net\bin\Debug\Newtonsoft.Json.dll
+D:\github\qingcloud-sdk-net\bin\Debug\Newtonsoft.Json.pdb
+D:\github\qingcloud-sdk-net\obj\Debug\QingCloudSDK.csprojResolveAssemblyReference.cache
+D:\github\qingcloud-sdk-net\obj\Debug\QingStorIaasSDK.exe
+D:\github\qingcloud-sdk-net\obj\Debug\QingStorIaasSDK.pdb
